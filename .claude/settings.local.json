@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check content-script.js)",
+      "Bash(command -v python3)"
+    ]
+  }
+}
